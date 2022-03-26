@@ -1,0 +1,102 @@
+S.No.,Name,Enrollment No.,Company,Accepted
+1,19114051,Mamidi Rohith,BNY Mellon (SW developer),Yes
+2,19114044,Kavish Lodha,BNY Mellon (SW developer),Yes
+3,19114037,Jatin,Qualcomm India Pvt. Ltd. (SW profile),Yes
+4,19114027,Devanshu Chaudhari,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+5,19114073,Ritikesh Ramdas Deshbhratar,CarDekho (Software Engineer Intern),Yes
+6,19114001,Abhinav Saini,Enphase Energy (Machine Learning (ML)),Yes
+7,19114075,Shah Meet,Microsoft (PIO),Yes
+8,19116051,Prerna Kumar,Google (PIO),Yes
+9,19114087,Varun Gupta,Quantbox (Research Intern),Yes
+10,19112057,Pranav Saxena,Quantbox (Research Intern),Yes
+11,19114076,Shashank Aital,Microsoft (PIO),Yes
+12,19114018,Ayushman Tripathy,Microsoft (PIO),Yes
+13,19114034,Gavvaji Pujita,Google (PIO),Yes
+14,19114047,Krishna Bansal,Google (PIO),Yes
+15,19114014,Ashutosh Singla,JP Morgan Chase & Co (Quantitative Researcher),Yes
+16,19114092,Yatin Khanna,AlphaGrep Securities (Quant),Yes
+17,19114078,Shlok Goyal,AlphaGrep Securities (SDE),Yes
+18,19112028,Doshi Daksh Birenkumar,Quadeye Securities (Systems),Yes
+19,19114032,Gagan Sharma,Quadeye Securities (Systems),Yes
+20,19114056,Naman Jain,Quadeye Securities (Systems),Yes
+21,19114079,Shreyas Dodamani,Quadeye Securities (Quant),Yes
+22,19114030,Divye Nayyar,Google (Software Engineering Intern),Yes
+23,19114009,Anshika Mittal,Google (Software Engineering Intern),Yes
+24,19114024,Chunduru Venkata Sai Yaswanth,Google (Software Engineering Intern),Yes
+25,19114010,Anurag Bansal,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+26,19114067,R Chinmay,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+27,19114077,Shivam Agarwal,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+28,19114068,Raghav Somani,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+29,19114026,Devansh Joshi,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+30,19114058,Nimmaturi Koushik Sai,Salesforce.com Pvt. Ltd. (Software Engineer),Yes
+31,19114012,Aryan Jain,Microsoft (Software Engineering Intern),Yes
+32,19114057,Neha Kumari,Microsoft (Software Engineering Intern),Yes
+33,19114015,Avdhesh Sharma,Microsoft (Software Engineering Intern),Yes
+34,19115055,Divyansh Agarwal,Microsoft (Software Engineering Intern),Yes
+35,19114060,Pendyala Sai Ramya,Microsoft (Software Engineering Intern),Yes
+36,19114021,Bhati Pratik Satish,Microsoft (Software Engineering Intern),Yes
+37,19114033,Gajanan Sunil Gitte,Microsoft (Software Engineering Intern),Yes
+38,19114006,Alankrit Anand,Microsoft (Software Engineering Intern),Yes
+39,19114011,Anushka Singh,Goldman Sachs (Engineering Summer Intern),Yes
+40,19114017,Ayush Kumar Gupta,Goldman Sachs (Engineering Summer Intern),Yes
+41,19114038,Jinendra Verma,Goldman Sachs (Engineering Summer Intern),Yes
+42,19114049,Mahak Gupta,Goldman Sachs (Engineering Summer Intern),Yes
+43,19112057,Pranav Saxena,Quadeye Securities (Systems),No
+44,19114087,Varun Gupta,Quadeye Securities (Quant),No
+45,19114092,Yatin Khanna,Quadeye Securities (Quant),No
+46,19114006,Alankrit Anand,AlphaGrep Securities (SDE),No
+47,19114087,Varun Gupta,Google (Software Engineering Intern),No
+48,19114067,R Chinmay,Salesforce.com Pvt. Ltd. (Software Engineer),No
+49,19114068,Raghav Somani,Salesforce.com Pvt. Ltd. (Software Engineer),No
+50,19114021,Bhati Pratik Satish,APT Portfolio Pvt Ltd (Software Engineer),No
+51,19114017,Ayush Kumar Gupta,Sprinklr India Pvt. Ltd. (Product Engineer),No
+52,19114012,Aryan Jain,DE Shaw (Software Development),No
+53,19114086,Umesh Kumar,Salesforce.com Pvt. Ltd. (Software Engineer),Yes
+54,19114012,Aryan Jain,Adobe (Direct Offer),No
+55,19114087,Varun Gupta,Adobe (Direct Offer),No
+56,19114040,Kadukuntla Sathvika Reddy,Salesforce.com Pvt. Ltd. (Software Engineer),No
+57,19114074,Sakshi Verma,Microsoft (PIO),Yes
+58,19113115,Ravjot Singh,Microsoft (PIO),Yes
+59,19114040,Kadukuntla Sathvika Reddy,Microsoft (PIO),Yes
+60,19114059,Nivedit Rathore,Goldman Sachs (Engineering Summer Intern),Yes
+61,19116040,Md Junaid Mahmood,Micron Technologies Operations India LLP (Memory Circuit Design Verification Engineer+ System Validation Engineer),Yes
+62,19114010,Anurag Bansal,Salesforce.com Pvt. Ltd. (Software Engineer),No
+63,19114063,Pragya Dalal,JP Morgan Chase & Co (PIO),No
+64,19114063,Pragya Dalal,Google (PIO),Yes
+65,19112056,Prakhar Gupta,JP Morgan Chase & Co (Software Engineer),Yes
+66,19114069,Rahul Agrawal,JP Morgan Chase & Co (Software Engineer),Yes
+67,19114013,Aryan Yadav,Adobe (Research Profile),Yes
+68,19114089,Vinay Bhardwaj,Flipkart (Software Development Intern),Yes
+69,19116036,Kunal Khandelwal,Flipkart (Software Development Intern),Yes
+70,19114070,Rahul Katara,Flipkart (Software Development Intern),Yes
+71,19114005,Aishwarya,Amazon (Software Development Engineer Intern),Yes
+72,19114064,Pranaw Raj,Amazon (Software Development Engineer Intern),Yes
+73,19114008,Anikait Agrawal,Amazon (Software Development Engineer Intern),Yes
+74,19114031,Dupukuntla Surya Naga Aditya Vardhan,Amazon (Software Development Engineer Intern),Yes
+75,19114069,Rahul Agrawal,Amazon (Software Development Engineer Intern),No
+76,19114041,Kambli Angad Abhay,Amazon (Software Development Engineer Intern),No
+77,19114005,Aishwarya,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),No
+78,19114041,Kambli Angad Abhay,Oracle India Pvt. Ltd. (Applications Engineer (Application Development Group)),Yes
+79,19114016,Avvari Sreedhar,UiPath (Software Engineer Intern),Yes
+80,19114088,Vasava Himil Sureshbhai,Indeed (Software Developer Intern),Yes
+81,19115016,Akanti Giri Nandan,Cohesity (Software Developer Intern),Yes
+82,19114003,Abramoni Sathwik,Cohesity (Software Developer Intern),Yes
+83,19114065,Purushottam,Cohesity (Software Developer Intern),Yes
+84,19114066,Putta Jaideep,Newzera Tech Labs Pvt. Ltd. (SE ML Intern),Yes
+85,19114022,Bhupendra Malakar,Cisco Systems (Software Engineer Intern (Network/Embedded/Application Development)),Yes
+86,19114022,Bhupendra Malakar,Citrix R&D India PVT LTD (Software Engineer Intern),No
+87,19114045,Keerthana Nuti,Citibank (Technology summer analyst intern),Yes
+88,19114080,Shreyas P,Societe Generale Global Solution Center (Software Engineer),Yes
+89,19114062,Pothuri Venkata Sasi Preetham,Bidgely (Software Engineer Intern),Yes
+90,19114081,Shubham Kumar,VMware (Development Roles),Yes
+91,19114029,Dhrubojeet Haldar,VMware (Development Roles),Yes
+92,19114061,Piyush Kumar,Qualcomm India Pvt. Ltd. (SW profile),Yes
+93,19114053,Manoj Siva Sai Deepank,VISA Inc. (Software Engineering Intern),Yes
+94,19114004,Aditya Rai,VISA Inc. (Software Engineering Intern),Yes
+95,19114007,Anchal Kejriwal,VISA Inc. (Software Engineering Intern),Yes
+96,19114028,Dheeraj P,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+97,19114019,Bansode Shubham Anil,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+98,19114072,Retiwala Harsh Prakash,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+99,19114083,Somarapu Vamshi,Strand Life Sciences (Software Engineering Intern),Yes
+100,19114035,Hardik Thami,Tata AIG (SDE),Yes
+101,19114082,Sneha Priya,ORMAE LLP (Data Scientist),Yes

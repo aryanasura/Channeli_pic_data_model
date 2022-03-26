@@ -1,0 +1,90 @@
+S.No.,Name,Enrollment No.,Company,Accepted
+1,19115007,Aditi Dubey,Twilio (Software Developer),Yes
+2,19115038,Ayush Dewangan,BNY Mellon (SW developer),Yes
+3,19115015,Akanksha Verma,Google (PIO),Yes
+4,19115053,Dhriti Gupta,Google (PIO),Yes
+5,19113147,Tanisha Gupta,Google (PIO),Yes
+6,19115008,Aditi Rani,Bajaj Auto Limited (Summer Intern),Yes
+7,19115092,Prateek Agarwal,Adobe (Direct Offer),Yes
+8,19115062,Himank Sehgal,American Express (Analytics),Yes
+9,19119032,Saksham Singhal,American Express (PIO),Yes
+10,19112048,Naman Mishra,American Express (PIO),Yes
+11,19115032,Arpit Kumar Pandey,American Express (PIO),Yes
+12,19115133,Yash Asati,American Express (PIO),Yes
+13,19115108,Sachin Agrawal,APT Portfolio Pvt Ltd (Software Engineer),Yes
+14,19115078,Neha Gupta,DE Shaw (Software Development),Yes
+15,19115060,Harsh Arora,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+16,19115047,Deepanshu Upadhyay,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+17,19117119,Vaibhav Aggarwal,Sprinklr India Pvt. Ltd. (Product Engineer),Yes
+18,19115093,Pratham Mukesh Goyal,Microsoft (Software Engineering Intern),Yes
+19,19115111,Saloni Sharma,Microsoft (Software Engineering Intern),Yes
+20,19115125,Vaibhav Gupta,Microsoft (Software Engineering Intern),Yes
+21,19115103,Rohan Mallick,Microsoft (Data Scientist Intern),Yes
+22,19115073,Madhurika Sharma,Goldman Sachs (Engineering Summer Intern),Yes
+23,19115123,Suhani Jain,Microsoft (PIO),Yes
+24,19115089,Prakhar Gupta,Instabase (Software Engineering Intern),Yes
+25,19115128,Vatsal Dixit,Texas Instrument (Intern (Analog + Digital + Software)),Yes
+26,19115124,Suthar Nisarg Manishbhai,Micron Technologies Operations India LLP (Memory Circuit Design Verification Engineer+ System Validation Engineer),Yes
+27,19115095,Rahul Gupta,Micron Technologies Operations India LLP (Memory Circuit Design Verification Engineer+ System Validation Engineer),Yes
+28,19115116,Sejal Agrawal,Micron Technologies Operations India LLP (Memory Circuit Design Verification Engineer+ System Validation Engineer),Yes
+29,19115035,Avichal Gupta,JP Morgan Chase & Co (Software Engineer),Yes
+30,19115002,Abhishek Kumar,Amazon (Software Development Engineer Intern),Yes
+31,19115067,Keshav Goyal,Amazon (Software Development Engineer Intern),Yes
+32,19115106,S Shanmathi,Amazon (Software Development Engineer Intern),Yes
+33,19115061,Harshit Kumar Gupta,Amazon (Software Development Engineer Intern),Yes
+34,19115114,Sanskar Gupta,Amazon (Software Development Engineer Intern),Yes
+35,19115106,S Shanmathi,Mastercard (Artificial Intelligence intern),No
+36,19115030,Anuj Popli,Amazon (Software Development Engineer Intern),No
+37,19115096,Rajat Raj,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),Yes
+38,19115021,Amarendra Behera,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),Yes
+39,19112087,Talati Achal Mayur,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),Yes
+40,19115064,Kalsaria Chintan Pareshbhai,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),Yes
+41,19115030,Anuj Popli,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),Yes
+42,19115044,Chirag Sethiya,Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group)),No
+43,19115044,Chirag Sethiya,Amazon (Software Development Engineer Intern),Yes
+44,19118073,Sarthak Malik,Mastercard (Artificial Intelligence intern),Yes
+45,19115135,Yash Ranakoti,Wells Fargo (Intern - Analytics),Yes
+46,19115134,Yash Khandelwal,Wells Fargo (Intern - Analytics),Yes
+47,19115077,Naman Goyal,Wells Fargo (Intern - Analytics),Yes
+48,19112054,Prabhat Sanjay Tiwari,DevRev (Technical Intern),Yes
+49,19115083,Paritosh Sanadhya,Citrix R&D India PVT LTD (Software Engineer Intern),Yes
+50,19115045,Daksh Mehla,Citibank (Technology summer analyst intern),Yes
+51,19117016,Anurag Srivastava,Citibank (Technology summer analyst intern),Yes
+52,19115070,Lakshana Goswami,Citibank (Technology summer analyst intern),Yes
+53,19115080,Nikita Singh,Razorpay (Software Development Engineer),Yes
+54,19115099,Ribhav Hans,Societe Generale Global Solution Center (Software Engineer),Yes
+55,19115087,Pinaki Basu,Societe Generale Global Solution Center (Software Engineer),Yes
+56,19115004,Abhishek Panwar,Societe Generale Global Solution Center (Software Engineer),Yes
+57,19115075,Mohit Kumar Goyal,Societe Generale Global Solution Center (Software Engineer),Yes
+58,19115087,Pinaki Basu,Bidgely (Software Engineer Intern),No
+59,19115112,Sama Sai Shriya Mudiraj,Standard Chartered GBS India Pvt Ltd. (Intern),Yes
+60,19115057,Gursimran,Standard Chartered GBS India Pvt Ltd. (Intern),Yes
+61,19115014,Akanksha Priya,Standard Chartered GBS India Pvt Ltd. (Intern),Yes
+62,19115100,Rishabh Jain,Mathworks (Engineering Development Intern),Yes
+63,19115065,Kamsani Hrusheekesh Reddy,Mathworks (Engineering Development Intern),Yes
+64,19115105,Rohitaksh Choudhary,Mathworks (Engineering Development Intern),Yes
+65,19115023,Anay Aggarwal,Mathworks (Engineering Development Intern),Yes
+66,19115039,Baldeep Singh Chhabra,Mathworks (Engineering Development Intern),Yes
+67,19115119,Shivam Sagar,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+68,19121029,Sarvesh Prashant Mandewal,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+69,19115054,Dilshad,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+70,19115104,Rohit Anil Garde,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+71,19115012,Afif Ahmad,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+72,19115017,Akarsh Rawat,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+73,19121024,Raman Yadav,"Samsung R&D, Delhi (Software Engineering Intern)",Yes
+74,19115120,Shrashtika Singh,NVIDIA Graphics (SW profile),Yes
+75,19115013,Agrim Agrawal,NVIDIA Graphics (SW profile),Yes
+76,19115009,Aditya Agrawal,Fractal Analytics Pvt. Ltd. (Imagineer Intern),Yes
+77,19115107,S.Ketan Suhaas,Slice (Software Development Engineer Intern),Yes
+78,19115001,Abhay Singh,GE Healthcare (EEDP Intern),Yes
+79,19115098,Ravina Bishnoi,GE Healthcare (EEDP Intern),Yes
+80,19115131,Vivek,Axis Bank (Business Analyst),Yes
+81,19115072,Lovish Balana,"Samsung Research Institute, Bangalore (Software R&D)",Yes
+82,19115006,Abhishek Saroniya,"Samsung Research Institute, Bangalore (Software R&D)",Yes
+83,19115048,Deepjyoti Haridas Poddar,"Samsung Research Institute, Bangalore (Software R&D)",Yes
+84,19115020,Aman Soni,"Samsung Research Institute, Bangalore (Software R&D)",Yes
+85,19115088,Pooja Yadav,Kotak Mahindra Bank (Summer Intern),Yes
+86,19115058,Hari Kishan,SAP Labs India Pvt Ltd (iXp Interns),Yes
+87,19115094,Punit Kumar,Huawei Technologies India Private Limited (SDE role 1),Yes
+88,19112090,Vaibhav Garg,ION Group (Software Developer),Yes
+89,19115026,Ankit Godara,Woovly (SDE I),Yes

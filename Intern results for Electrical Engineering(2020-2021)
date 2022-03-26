@@ -1,0 +1,80 @@
+S.No.,Name,Enrollment No.,Company,Accepted
+1,18121012,JAYATI SHRIVASTAVA,Google Hardware,Yes
+2,18115116,URJITA SHARMA,Google Hardware,Yes
+3,18115096,SHIVANG BHAWSAR,Goldman Sachs Services Private Ltd.,Yes
+4,18115043,ISHITA SAINI,Goldman Sachs Services Private Ltd.,Yes
+5,18115063,NAMRATA MEENA,Goldman Sachs Services Private Ltd.,Yes
+6,18115111,TANISHA SAHU,Goldman Sachs Services Private Ltd.,Yes
+7,18115103,SHUBHANG PANDEY,Uber,Yes
+8,18115120,VIKRANT GUPTA,ITC,Yes
+9,18115116,URJITA SHARMA,JP Morgan (Quant),No
+10,18115096,SHIVANG BHAWSAR,Microsoft India Pvt. Ltd. (SE),No
+11,18115058,MAYANK SINGHAL,Microsoft India Pvt. Ltd. (SE),Yes
+12,18117019,AYAN CHOUDHARY,Microsoft India Pvt. Ltd. (SE),Yes
+13,18115065,NIHARIKA MATHUR,Microsoft India Pvt. Ltd. (SE),Yes
+14,18115106,SRASTI SETHI,Microsoft India Pvt. Ltd. (SE),Yes
+15,18117085,ROSHAN RAJA SAMUEL.A,NVIDIA GRAPHICS(HW),Yes
+16,18115070,PRANJAL MANGAL,NVIDIA GRAPHICS(HW),Yes
+17,18115057,MANEET GANDHI,Texas Instruments (Software),Yes
+18,18115077,RAHUL RAWAL,Nutanix,Yes
+19,18118062,SHIVAM KUMAR,Cisco Systems,Yes
+20,18113052,HARSH KESARWANI,Adobe,Yes
+21,18115074,RAHUL AHLAWAT,American Express (Technology),Yes
+22,18115022,ARYAN RAJ,American Express (Technology),Yes
+23,18121021,SARA SINGHAL,American Express (Technology),Yes
+24,18115010,ADITYA NANDKUMAR KARAD,JP Morgan Chase & Co. (Software),Yes
+25,18115051,KHUSHI,Adobe (Direct Offer),Yes
+26,18115020,ARKESH MISHRA,ORACLE INDIA PVT. LTD(Server Technology),Yes
+27,18117083,RITIK MATHUR,ORACLE INDIA PVT. LTD(Server Technology),Yes
+28,18115024,AYUSH,ORACLE INDIA PVT. LTD(Application Development),Yes
+29,18115124,YASH KALPESHKUMAR GANDHI,Intuit India Product Development Center  Pvt Ltd.,Yes
+30,18115112,TANMAY RATHI,Intuit India Product Development Center  Pvt Ltd.,Yes
+31,18115118,VEDANSH JAIN,BNY Mellon,Yes
+32,18115030,DAWAR HUSAIN,BNY Mellon,Yes
+33,18115015,AMAN TIWARI,BNY Mellon,Yes
+34,18115079,RAMAN WALIA,Qualcomm (Hardware),Yes
+35,18115053,KSHITIJ BITHEL,Qualcomm (Hardware),Yes
+36,18117085,ROSHAN RAJA SAMUEL.A,Qualcomm (Hardware),No
+37,18115035,GAUD PARTH VIJAY,Citrix R&D India PVT,Yes
+38,18115102,SHUBHAM VERMA,Citrix R&D India PVT,Yes
+39,18115020,ARKESH MISHRA,Bidgely Technologies(Developer),No
+40,18115009,ADITI SINGHAL,Bidgely Technologies(Developer),Yes
+41,18117064,NITISH AGGARWAL,Adobe(Product),Yes
+42,18115018,ANSHUMAN SHUKLA,NVIDIA(SW),Yes
+43,18115073,PUSHPAM CHOUDHARY,Citibank India,Yes
+44,18115097,SHIVANSH MATHUR,Salesforce,Yes
+45,18115072,PRIYANSH GARG,ORACLE INDIA PVT. LTD(Oracle Financial Services Analytical Applications),Yes
+46,18115023,AVIRAL,ORACLE INDIA PVT. LTD(Oracle Financial Services Analytical Applications),Yes
+47,18111018,NALIN MATHUR,Myntra Designs Pvt Ltd,Yes
+48,18115020,ARKESH MISHRA,Myntra Designs Pvt Ltd,No
+49,18115060,MOHAMMAD ZARYAB,Udaan,Yes
+50,18115118,VEDANSH JAIN,Zomato Pvt. Ltd.,No
+51,18115098,SHIVANSH SINGH,Standard Chartered,Yes
+52,18115119,VIBHOR GOYAL,Amazon India Development Center Pvt Limited,Yes
+53,18115068,PATEL DRUMIL NILESHBHAI,Amazon India Development Center Pvt Limited,Yes
+54,18115091,SANJIT AGRAWAL,Amazon India Development Center Pvt Limited,Yes
+55,18115012,AKASH DEEP,Amazon India Development Center Pvt Limited,Yes
+56,18115089,SAHIL SUDAN,Amazon India Development Center Pvt Limited,Yes
+57,18115119,VIBHOR GOYAL,Samsung R&D Bangalore,No
+58,18115125,YASHPAL GAHLOT,Samsung R&D Bangalore,Yes
+59,18115039,HARSHIT GUPTA,Bajaj Auto Limited,Yes
+60,18115003,AAYUSH VERMA,Samsung R&D Delhi,Yes
+61,18115014,AMAN DIXIT,Samsung R&D Delhi,Yes
+62,18115094,SHAGUN,Samsung R&D Delhi,Yes
+63,18115001,AADARSH MISHRA,Samsung R&D Delhi,Yes
+64,18115042,INZAMAM,Analog Devices,Yes
+65,18115088,SAHAJ KHANDELWAL,ZS Associates,Yes
+66,18115007,ADARSH KUMAR RAJ,Disney Hotstar,Yes
+67,18115087,ROSHAN KUMAR CHOUDHARY,Udaan[Operations],Yes
+68,18115016,AMEY BHARAT WANKHEDE,Larsen & Tourbo Infotech (LTI),Yes
+69,18115004,ABHAS GAHLOT,Larsen & Tourbo Infotech (LTI),Yes
+70,18115100,SHREYANSH SONI,Larsen & Tourbo Infotech (LTI),Yes
+71,18115033,DIXIT PANWAR,Larsen & Tourbo Infotech (LTI),Yes
+72,18115013,AKELLA ANIRUDH,Larsen & Tourbo Infotech (LTI),Yes
+73,18115002,AAYUSH RANJAN,Larsen & Tourbo Infotech (LTI),Yes
+74,18115122,VIPUL,HyperVerge,Yes
+75,18115047,JONTI KUMAWAT,Finnovation Tech Solutions Pvt. Ltd.,Yes
+76,18115050,KESHAV DIXIT,Samsung Semiconductor India Research Center(HW),Yes
+77,18115006,ABHISHEK PRABHAKAR,Samsung Semiconductor India Research Center(HW),Yes
+78,18115080,RATHOD KIRTHI,Sparrow,Yes
+79,18118082,VIKRANT DEY,Mastercard,Yes

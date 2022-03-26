@@ -1,0 +1,93 @@
+S.No.,Name,Enrollment No.,Company,Accepted
+1,15112014,ANURAG SINGH TOMAR,Wipro Ltd. (PPO),Yes
+2,15112081,RONAK JAIN,Reliance Industries Limited (PPO),Yes
+3,15112071,RAJAT,Reliance Industries Limited (PPO),Yes
+4,15112041,HARSH WARDHAN,Reliance Industries Limited (PPO),Yes
+5,15112080,RONAK AGARWAL,Reckitt Benckiser (PPO),Yes
+6,15112061,PIYUSH RAJ,ZS Associates (PPO),Yes
+7,15112053,NAINI NITIN PANCHAL,EXL Service,Yes
+8,15112106,VARUN SAXENA,EXL Service,Yes
+9,15112017,ARIJIT MUKHERJEE,EXL Service,Yes
+10,15112025,AYUSH TYAGI,EXL Service,Yes
+11,15112078,RITU SHARMA,EXL Service,Yes
+12,15112102,TAMHANKAR VIRAJ,EXL Service,Yes
+13,15112012,ANUBHAV SINGH,EXL Service,Yes
+14,15112089,SHANTNU PATIL,EXL Service,Yes
+15,15112031,DIVYANSH GOYAL,EXL Service,Yes
+16,15112015,APOORVA AGARWAL,JPMorgan Chase & Co. (Quantitative Researcher),Yes
+17,15112023,AYUSH KOTHARI,Squarepoint Capital,Yes
+18,15112107,VIKASH GUPTA,"Oski Technology,Inc.",Yes
+19,15112011,ANKITA BANSAL,Salesforce,Yes
+20,15112030,DIVANSHU BANSAL,Salesforce,Yes
+21,15112075,RISHAB SETH,Indus Insights,Yes
+22,15112073,RAM BANSAL,Oxane Partners,Yes
+23,15112021,ASTITWA LAWANIYA,Sterlite Technologies Limited,Yes
+24,15112006,AKSHAT SWAROOP,Sterlite Technologies Limited,Yes
+25,15112088,SHAIL SINGLA,Futures First Info Services Pvt Ltd,Yes
+26,15112084,SANJANA,Goldman Sachs,Yes
+27,15112070,RAHUL KUMAR GOYAL,Fractal Analytics Pvt. Ltd.,Yes
+28,15112039,HARSH KARTIKEY SINGH,PayU Payments Private Limited,Yes
+29,15112048,KAUSHAL KUMAR,ExxonMobil,Yes
+30,15112103,TANMAY BICHU,ExxonMobil,Yes
+31,15112096,SHREYA JAIN,American Express India,Yes
+32,15112018,ARNAV BHARDWAJ,Oravel Stays Private Limited (OYO) [ Business Analyst],Yes
+33,15112038,HARSH JAIN,Oravel Stays Private Limited (OYO) [ Business Analyst],Yes
+34,15112005,AKSHAT MITTAL,Oravel Stays Private Limited (OYO) [ Project Associate],Yes
+35,15118097,VIKAS KOOKNA,GE Digital,Yes
+36,15112038,HARSH JAIN,Fidelity Business Services India Pvt. Ltd.,No
+37,15112040,HARSH KUMAR SINGH,Genpact,Yes
+38,15112013,ANURAG KUMAR,Genpact,Yes
+39,15112013,ANURAG KUMAR,Quantiphi,No
+40,15112040,HARSH KUMAR SINGH,Quantiphi,No
+41,15121031,SHARMA ABHISHEK,Quantiphi,No
+42,15112004,AGRIM MITTAL,Zomato(SDE),Yes
+43,15112099,SONAR PRITESH,Zomato(Operations),No
+44,15112079,ROHAN VADI,Alphonso (BDA),Yes
+45,15112108,VIKHYAT MAHAUR,Quantile Analytics Private Limited (Quantitative Developer Trainee),Yes
+46,15112099,SONAR PRITESH,Quantile Analytics Private Limited (Quantitative Analyst Trainee),Yes
+47,15112100,SUMIT KUMAR,Quantile Analytics Private Limited (Quantitative Analyst Trainee),Yes
+48,15112097,SHRUTI JAMGADE,Microland Ltd.,Yes
+49,15121031,SHARMA ABHISHEK,Microland Ltd.,Yes
+50,15112024,AYUSH KUMAR,Reliance Industries Limited,Yes
+51,15112043,ISHEY ANGMO,Reliance Industries Limited,Yes
+52,15112057,PANKAJ YADAV,Reliance Industries Limited,Yes
+53,15112016,APURVA,Reliance Industries Limited,No
+54,15112064,PUNIT AGARWAL,Reliance Industries Limited,Yes
+55,14112023,Ashish Kumar Meena,Reliance Industries Limited,Yes
+56,15112105,VARDAN BAPNA,Reliance Industries Limited,Yes
+57,14112073,Rambabu Meena,Reliance Industries Limited,Yes
+58,15112063,PRASHANT RAJ,Reliance Industries Limited,Yes
+59,15112019,ASHUTOSH DUBEY,Reliance Industries Limited,Yes
+60,15112046,KANIKA VIJAYVERGIA,Vedanta Oil and Gas,Yes
+61,15112090,SHARAT SONI,Vedanta Oil and Gas,Yes
+62,15112027,DHEERAJ KUMAR TETA,Upstox(SDE),Yes
+63,15112111,YATHARTH SAHU,Upstox(BA),Yes
+64,15112047,KARTIK PRAJAPATI,OYO (Oravel Stays Private ltd.) [SDE profile],Yes
+65,15112083,SAMEER KATARIA,Axxela Advisory Services,Yes
+66,15112026,AYUSH YADAV,American Express India(Technology),Yes
+67,15112091,SHASHWAT RAGHUVANSHI,Accenture Solutions Pvt ltd,Yes
+68,15112008,AKSHAY VERMA,Roposo,Yes
+69,15118091,TUSHAR BAIRAGI,UDAAN [ Business Development],Yes
+70,15112082,SALONI NAGORI,UDAAN [ Business Development],Yes
+71,15112082,SALONI NAGORI,UDAAN [ Business Development],Yes
+72,15112037,HARSH GUPTA,Fujifilm Software Co. Ltd._Webstaff Co. Ltd. (Tokyo Gas) - PPO,Yes
+73,15112010,AMIT SINGH TOMAR,Aasaanjobs (Operations Manager ),Yes
+74,15112042,HIMANSHU GUPTA,BNY Mellon International,Yes
+75,15112042,HIMANSHU GUPTA,BNY Mellon International,Yes
+76,15112016,APURVA,Aasaanjobs (Business Analyst),Yes
+77,15112002,ABHISHEK GAUTAM,Reliance Jio [GET],Yes
+78,15112029,DILKHUSH MEENA,The Smart Cube India Pvt Ltd (Data Analyst),Yes
+79,15112007,AKSHAY KUMAR MANDAR,Ernst & Young(PPO),Yes
+80,15112032,GARVJEET SINGH,QuantInsti Quantitative Learning Pvt LTD,Yes
+81,15112058,PARMESHWAR PANWAR,Pyramid E & C,Yes
+82,15112060,PATEKHEDE TEJAS ASHOK,BeeHyv Software Solutions Pvt. Ltd,Yes
+83,15112009,AMANDEEP,Affine Analytics(Business Analyst),Yes
+84,15112020,ASHWANI KUMAR,Log 9 Materials (Business Development and Analyst),Yes
+85,15111037,SATNAM SINGH,Lummus Technology,Yes
+86,15112034,GOPAL VERMA,Trident Limited,Yes
+87,15112019,ASHUTOSH DUBEY,Indian Oil Corporation Ltd. (IOCL),Yes
+88,15112045,JAGDISH GODARA,Indian Oil Corporation Ltd. (IOCL),Yes
+89,15112059,PARTH NAGAR,Indian Oil Corporation Ltd. (IOCL),Yes
+90,15112093,SHIVAM RAJPUT,Indian Oil Corporation Ltd. (IOCL),Yes
+91,15112044,ISHITA SINGHAL,INDUSIND BANK,Yes
+92,15112033,GAURAV KUMAR,Khurana Oleo Chemicals,Yes
